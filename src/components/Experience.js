@@ -35,7 +35,7 @@ const ExperienceCard = ({ role, company, date, responsibilities }) => {
 
 const Experience = ({ experiences }) => {
   return (
-    <section className="py-3 px-3 bg-white mt-4 md:mt-7">
+    <section id="experience" className="py-3 px-3 bg-white mt-4 md:mt-7">
       <div className="mx-auto max-w-6xl">
         <div id="experience" className="flex flex-col text-center mb-4 w-full">
           <h1 className="text-3xl sm:text-4xl font-medium title-font mb-2">

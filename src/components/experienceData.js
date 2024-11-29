@@ -21,6 +21,8 @@ const experiences = [
     date: "Mar 2021 - Jun 2021",
     responsibilities: [
       "Designing a missile test rig using Solid Works and conducting finite element analysis using Ansys Workbench, all under the guidance of DRDL´s esteemed scientists. This experience not only sharpened my technical skills but also provided valuable insights into the workings of a large-scale organisation.",
+      "Stress and Strain Evaluation with Safety Factor Analysis: Performed advanced stress and strain analysis on the test rig under actuator loading, identifying critical regions and calculating safety factors. This project contributed to developing reliable testing techniques for missile structures subjected to combined flight and static environmental loads.",
+      "Advanced Simulation for Combined Environmental Loads: Conducted simulations to assess the impact of combined environmental conditions, including aerodynamic, thermal, and vibrational loads on the missile and test rig, ensuring the rig’s performance under real-world conditions.",
     ],
   },
 ];

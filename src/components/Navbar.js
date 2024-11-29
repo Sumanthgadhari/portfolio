@@ -25,6 +25,14 @@ const links = [
     link: "experience",
   },
   {
+    title: "Testimonials",
+    link: "testimonials",
+  },
+  {
+    title: "Achievements",
+    link: "achievements",
+  },
+  {
     title: "Contact",
     link: "contact",
   },

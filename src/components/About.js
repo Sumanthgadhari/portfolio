@@ -39,14 +39,15 @@ const About = () => {
               className="font-medium text-gray-700 text-lg lg:text-base xl:text-xl leading-loose xl:leading-8"
             >
               I am Sumanth Sandra, currently pursuing a Master's in Project
-              Management at Dublin University College. My journey began in
-              India, where I earned my Bachelor's degree in Computer Science and
-              worked for three years as an IT professional. This experience
-              honed my technical skills and ignited my passion for efficient
-              project execution and management. At Dublin University College, I
-              am expanding my expertise in project methodologies, leadership,
-              and strategic planning. I thrive on challenges and am eager to
-              apply my skills in a dynamic environment.
+              Management at University College Dublin. My journey began in
+              India, where I earned my Bachelor's degree in Aeronautical
+              Engineering and worked for three years as an IT professional. This
+              experience honed my technical skills and ignited my passion for
+              efficient project execution and management. At University College
+              Dublin, I am expanding my expertise in project methodologies,
+              leadership, strategic planning and risk management. I thrive on
+              challenges and am eager to apply my skills in a dynamic
+              environment.
             </p>
             <div
               data-aos="zoom-in"

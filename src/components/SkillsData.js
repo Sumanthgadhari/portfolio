@@ -54,6 +54,11 @@ const SkillsData = [
     name: "Azure",
     image: require("../assets/Images/azure.png"),
   },
+  {
+    id: "13",
+    name: "Windows Administrator",
+    image: require("../assets/Images/windows.png"),
+  },
 ];
 
 export default SkillsData;
