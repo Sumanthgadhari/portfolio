@@ -10,6 +10,9 @@ const ReviewCarousel = ({ reviews }) => {
     slidesToShow: 1,
     slidesToScroll: 1,
     arrows: true,
+    autoplay: true, // Enable auto-scroll
+    autoplaySpeed: 3000, // Time delay between slides (ms)
+    pauseOnHover: true, // Pause auto-scroll when hovering over a slide
   };
 
   return (
