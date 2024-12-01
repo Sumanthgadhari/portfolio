@@ -12,7 +12,6 @@ const experiences = [
       "Azure Administrator with AZ-104 certification and 3 years of experience managing cloud environments and services for enterprise clients.",
       "Served as primary point of contact for IT support, managing inquiries via Teams and email.",
       "Provided basic troubleshooting, guiding users through solutions and escalating complex issues as required.",
-      "Provided basic troubleshooting, guiding users through solutions and escalating complex issues as required.",
     ],
   },
   {
